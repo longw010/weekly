@@ -1,6 +1,6 @@
 # weekly
 
-保存每周发现的有趣的信息，但尽量保留不具有时效性的内容。如果有表达观点的内容，opinions are my own.
+保存每周发现的有趣且不"过期"的信息。如果有表达观点的内容，opinions are my own.
 
 
 ## Usage:
@@ -10,6 +10,7 @@
 
 
 ## 2024
+- 004 [做好炮灰也很好](docs/issue-4.md)
 - 003 [节约时间做点什么](docs/issue-3.md)
 - 002 [顺势而为](docs/issue-2.md)
 - 001 [上一门名叫生活的课](docs/issue-1.md)
@@ -17,7 +18,11 @@
 
 ## 其它推荐
 除了咱们repo，还有一些别的repo很有趣，也可以去看看。
+整合的技术周刊：https://www.fre321.com/weekly
+
 - [科技爱好者周刊](https://github.com/ruanyf/weekly/tree/master)
 - [信息差——独立开发者出海周刊](https://gapis.money/)
 - [潮流周刊](https://weekly.tw93.fun/)
 - [cassidoo's newsletter](https://buttondown.com/cassidoo/archive)
+- [老胡的信息周刊](https://weekly.howie6879.com/)
+- [hacker's news](https://www.daemonology.net/hn-daily/?utm_source=gapis.money)

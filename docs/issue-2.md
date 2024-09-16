@@ -56,7 +56,7 @@
 
 
 ## 剧集
-* [莫提之路金金](https://www.xiaohongshu.com/discovery/item/66c86266000000001d03bd75?app_platform=ios&app_version=8.51&share_from_user_hidden=true&xsec_source=app_share&type=video&xsec_token=CBRq74K-84eABnlCuD1xg7A5nrHduirhnfaDQExykNj-w=&author_share=1&xhsshare=WeixinSession&shareRedId=N0s2ODVKRz42NzUyOTgwNjY0OTc4NktL&apptime=1724729954&share_id=d5cc027402e54bb29429059a73723186) - 真正属于你的不会事情，而不属于你的东西会自然脱落。
+* [莫提之路金金](https://www.xiaohongshu.com/discovery/item/66c86266000000001d03bd75?app_platform=ios&app_version=8.51&share_from_user_hidden=true&xsec_source=app_share&type=video&xsec_token=CBRq74K-84eABnlCuD1xg7A5nrHduirhnfaDQExykNj-w=&author_share=1&xhsshare=WeixinSession&shareRedId=N0s2ODVKRz42NzUyOTgwNjY0OTc4NktL&apptime=1724729954&share_id=d5cc027402e54bb29429059a73723186) - 真正属于你的不会失去，而不属于你的东西会自然脱落。
 
 * [The Me You Can't See](https://www.bilibili.com/video/BV1yg4y1H7Kr/?spm_id_from=333.788.recommend_more_video.-1&vd_source=3ac5da2f282709cff43119e5589a3609)  - 讲的很多名人遇到的关于心理健康的经历和问题，各自自己的故事。看了觉得每个人都有艰难的时候，但是其实不需要别人帮助，同情或者empathy。只要do not harm就已经很幸运。do no harm指的是不empahty且横加指责。但是有趣的是，估计需要意识到指责的人并不会看这些，而是只有柔软且能共情的人才会看。
 

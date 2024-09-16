@@ -131,6 +131,8 @@ xiaosheng.125
 * 面对[Restrictions for customers based in Russia](https://www.notion.so/help/restrictions-for-customers-based-in-russia?utm_source=gapis.money)的消息，
 Obsidian 的作者 -- “file over app”的概念：如果你想创建持久存在的作品，它们必须是你能够控制的文件，并且采用易于检索和阅读的格式。使用能够赋予你这种自由的工具。
 
+类似的，云盘也有这种风险的考虑。还有time machine。
+
 * 怎么给每期起个名字？
 这是个很小的问题，每期取个什么名字。看了其他人的，有的人用名人名言，有的人用当期的同一个故事，有的就直接1，2，3。最后选择的是我整理完一期之后觉得一个出现频率比较高的讨论主题。先这样试试看。
 
