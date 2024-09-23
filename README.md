@@ -20,6 +20,8 @@
 除了咱们repo，还有一些别的repo很有趣，也可以去看看。
 整合的技术周刊：https://www.fre321.com/weekly
 
+[技术周刊](https://github.com/Geekhyt/weekly?tab=readme-ov-file)
+
 - [科技爱好者周刊](https://github.com/ruanyf/weekly/tree/master)
 - [信息差——独立开发者出海周刊](https://gapis.money/)
 - [潮流周刊](https://weekly.tw93.fun/)
