@@ -10,6 +10,8 @@
 
 
 ## 2024
+- 008 [纳达尔也告别了](docs/issue-8.md)
+- 007 [整理SOP](docs/issue-7.md)
 - 006 [过适合鼹鼠的生活就会健康快乐](docs/issue-6.md)
 - 005 [You can’t know everything, and that’s perfectly fine. ](docs/issue-5.md)
 - 004 [做好炮灰也很好](docs/issue-4.md)
@@ -31,6 +33,6 @@
 - [老胡的信息周刊](https://weekly.howie6879.com/)
 - [hacker's news](https://www.daemonology.net/hn-daily/?utm_source=gapis.money)
 - [AI 资讯日报](https://gorden-sun.notion.site/527689cd2b294e60912f040095e803c5?v=4f6cc12006c94f47aee4dc909511aeb5)
-
+- [平侠](https://www.yuque.com/zenany)
 
 

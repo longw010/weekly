@@ -1,17 +1,12 @@
-# name
-20xx/xx/xx 
+---
+intro: : x
+issue: x
+date: 2024-10-13
+---
 
-
-## 1% changes
-## Tools
-from twitter's recommendation
-
+## 🌈 1% changes
+## 🔧 Tools
 ## 📚 Books/Blogs Takeaways 
-## 🎬 剧集
+## 🎬 Movie series 
+## 🧘 Health
 ## 🧩 Puzzles
-
-<!-- 
-git config --global http.proxy 127.0.0.1:8118
-git config --global https.proxy 127.0.0.1:8118
-git push -v 
--->

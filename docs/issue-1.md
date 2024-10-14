@@ -1,7 +1,10 @@
-# 1 上一门名叫生活的课
-2024/08/21 
+---
+intro: : 上一门名叫生活的课
+issue: 1
+date: 2024-08-21 
+---
 
-## 1% changes
+## 🌈 1% changes
 
 * 在有解释的念头的时候停下来
 
@@ -21,7 +24,7 @@
 有了计算器之后，我们的计算能力下降了吗？比如不再需要自己计算。技术变革带来的改变似乎正在从量变变成质变。似乎之前由于信息的局限，我们习惯于被动吸收，包括电视、新闻、书、电影，甚至安静地上课，而过少强调主动提问或者摄取。但是现在，我们可以在youtube上看总结好的内容，问问题。很多时候，我可能面对，虽然没听懂但是不知道怎么问。
 
 
-## Tools
+## 🔧 Tools
 * Relax eyes
 
 每天工作就打开，每20分钟休息眼睛20秒。
@@ -40,7 +43,7 @@ GPT based paper推送和总结
 
 最近看展或者演出全靠它了，还有早鸟票。感觉在演出方面，这里面的小程序比美团更全面。
 
-## Books/Blogs Takeaways 
+## 📚 Books/Blogs Takeaways 
 
 *  [Advice to the young](https://muratbuffalo.blogspot.com/2024/07/advice-to-young.html?ref=dailydev) (ENG)
 
@@ -88,7 +91,7 @@ Do good and throw it in to the sea. If the fish don't appreciate it, God will.
 今天做了任何工作不是为了向这个世界证明你多强，而是你真正想做的事情。当走过这个过程，你就不害怕失去一些在别人看上去很好的东西。
 ```
 
-## 剧集
+## 🎬 Movie series 
 * [驯鹿宝贝](https://www.netflix.com/title/81219887)
 
 一个Netflix上7集短剧。是在小红书狐狸阿姨Leecy推荐说一个提高ux designer素质的偏方就是看心理学的剧。出于好奇刷完。
@@ -121,7 +124,7 @@ It's a societal issue related to the pursuit of endless growth. And if you think
 
 
 
-## Health
+## 🧘 Health
 
 * [NSDR-Non Sleep Deep Rest](https://nsdr.life/cn)是神经科学教授 Huberman 提出的一个方法，通过调节呼吸和感知来放松神经系统并恢复精力。
 
@@ -146,7 +149,7 @@ It's a societal issue related to the pursuit of endless growth. And if you think
 最近越来越发现好像医学界也意识到学科之间的boundary，然后可以开始挂多学科会诊的号了。我觉得这是个好的趋势，因为一个问题的发生肯定不是独立存在的，而是相互coupled的。但是实际就诊体验感觉，还是只是跟一个医生进行沟通，如果我们不主动提出其它的顾虑好像还是不太行。我想，未来发展会不会变成比如一个问题，类似体检一样，相关的科室医生都会有相关资料，然后去主负责的科室看完之后，也能去其它科室得到一些相关的建议。
 
 
-## Puzzles
+## 🧩 Puzzles
 
 ### Newsletter变现？
 变现的几种形式：

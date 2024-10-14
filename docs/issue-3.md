@@ -1,7 +1,11 @@
-# 3 节约时间做点什么
-2024/09
+---
+intro: : 节约时间做点什么
+issue: 3
+date: 2024-09-06
+---
 
-## 1% changes
+
+## 🌈 1% changes
 ```
 xiaosheng.125
 06/06/2024
@@ -12,8 +16,7 @@ xiaosheng.125
 所以怎么知道什么时候是自己的问题，什么时候是别人的问题？
 想起来以前mentor跟我说，你不需要纠结这个问题，只需要记住永远都是别人的问题就行了。他大概是看出我的内耗内核，开出良方。
 
-## Tools
-### 工具列表整理：
+## 🔧 Tools
 
 #### 1. **Wewe RSS（公众号专属 RSS 服务）**
    - **功能**：部署专属公众号 RSS 服务，定时同步微信公众号文章到博客。
@@ -70,8 +73,7 @@ xiaosheng.125
 
 
 
-## Books/Blogs Takeaways 
-### 工具及资源整理：
+## 📚 Books/Blogs Takeaways 
 
 #### 1. **[没有人放弃八月](https://mp.weixin.qq.com/s/Fjg-ylUiEyzvFCsRCcISXg)**
    - **简介**：来自《人物》编辑部的八月投稿，分享了许多照片和感受，非常感动人心。
@@ -118,10 +120,10 @@ xiaosheng.125
 #### 15. **[主权个人](https://github.com/lj92458/the_sovereign_individual)**
    - **简介**：一本讲解信息时代个人如何破局的书，具有战略意义，适合职业规划或投资方向的参考。
 
-## 剧集
+## 🎬 Movie series 
 [Conversation with Pieter Levels](https://youtube.com/watch?v=oFtjKbXKqbg) -- about startup philosophy, indie hacking, productivity, and minimalism.
 
-## Puzzles
+## 🧩 Puzzles
 * 民间博物馆的建立
 如果想申报一个私人博物馆，需要哪些条件？
 1. 藏品300件（等级不限制）

@@ -1,12 +1,15 @@
-# 2 顺势而为
-2024/08/28
+---
+intro: : 顺势而为
+issue: 2
+date: 2024-08-28
+---
 
-## 1% changes
+## 🌈 1% changes
 
 我接受了在某些事情上处于下风的事实，也接受了自己能够运用的筹码有限。
 
 
-## Tools
+## 🔧 Tools
 * **Merlin by Cornell University** - 是一个识别鸟类的工具。在安装之后，会需要选择location信息，然后下载对应的鸟库。支持图片和声音。另外一个工具我经常使用的识别食物的是叫做形色。基于图片进行识别，在识别后会返回多个结果，并对应的植物的基本信息，对于的诗词选集等等。并支持分享功能。感觉是个小而美的工具。
 
 * **an automatic changelog** [an automatic changelog](https://github.com/rphovley/publishing-workspaces-test/blob/v1.3.17/.github/workflows/release.yml)
@@ -34,7 +37,7 @@
 
 * **签名生成器**: [签名生成器](https://codepen.io/kiranpate1/full/ExBpaeW) - 根据名字生成好看的签名，开源代码和体验地址可用。
 
-## Books/Blogs Takeaways 
+## 📚 Books/Blogs Takeaways 
 * [程序员阅读清单：我喜欢的 100 篇技术文章（1-20）](https://www.piglei.com/articles/programmer-reading-list-1/)
 
 * [The struggles of an open source maintainer](http://antirez.com/news/129)
@@ -55,7 +58,7 @@
 * 对抗完美主义的解药是自我宽恕。要宽恕自己，你必须放弃完美主义，采用一种不同的自我观念和信念——生命是为了学习，真正的完美在于不断改进自己，而不是避免错误。你唯一需要与之比较的人是昨天的你和你想成为的明天的你。
 
 
-## 剧集
+## 🎬 Movie series 
 * [莫提之路金金](https://www.xiaohongshu.com/discovery/item/66c86266000000001d03bd75?app_platform=ios&app_version=8.51&share_from_user_hidden=true&xsec_source=app_share&type=video&xsec_token=CBRq74K-84eABnlCuD1xg7A5nrHduirhnfaDQExykNj-w=&author_share=1&xhsshare=WeixinSession&shareRedId=N0s2ODVKRz42NzUyOTgwNjY0OTc4NktL&apptime=1724729954&share_id=d5cc027402e54bb29429059a73723186) - 真正属于你的不会失去，而不属于你的东西会自然脱落。
 
 * [The Me You Can't See](https://www.bilibili.com/video/BV1yg4y1H7Kr/?spm_id_from=333.788.recommend_more_video.-1&vd_source=3ac5da2f282709cff43119e5589a3609)  - 讲的很多名人遇到的关于心理健康的经历和问题，各自自己的故事。看了觉得每个人都有艰难的时候，但是其实不需要别人帮助，同情或者empathy。只要do not harm就已经很幸运。do no harm指的是不empahty且横加指责。但是有趣的是，估计需要意识到指责的人并不会看这些，而是只有柔软且能共情的人才会看。
@@ -66,7 +69,7 @@
 
 
 
-## Puzzles
+## 🧩 Puzzles
 
 怎么选择一个好的露营地？
 * 是否提供停车场，卫生间，淋浴、水、wifi、小卖铺

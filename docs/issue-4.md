@@ -1,7 +1,10 @@
-# 第4期 做好炮灰也很好
-2024/09/15
+---
+intro: : 做好炮灰也很好
+issue: 4
+date: 2024-09-15
+---
 
-## 1% changes
+## 🌈 1% changes
 当我开始真正爱自己，我才明白我其实一直在正确的时间和地点，发生的一切都恰如其分。由此我得以平静，这就叫做自信。
 
 ## 体验亮点
@@ -9,7 +12,7 @@
 
 类似的操作还有iphone可以照相来提取需要翻译的部分，然后对应进行翻译。
 
-## Tools
+## 🔧 Tools
 ### 1. Reflection 70B
 号称可以碾压 GPT-4 的 Reflection 70B 已经上线 OpenRouter：
 - 免费版本支持 4k 上下文：[Reflection 70B Free](https://openrouter.ai/models/mattshumer/reflection-70b:free)
@@ -44,7 +47,7 @@
 - **Virtual Try-On Chrome Extension**：试穿购物插件。[GitHub](https://github.com/sindresorhus/virtual-try-on)
 - **Have I Been Pwned**：信息泄漏查询网站。[Have I Been Pwned](https://haveibeenpwned.com/?utm_source=gapis.money)
 
-## Books/Blogs Takeaways
+## 📚 Books/Blogs Takeaways 
 - [日常好物的测评](https://360life.shinyusha.co.jp/list/ldk)：对日常用品的无广告测评。
 - [涸河](https://hh.ee/)：一个极具个人风格的博客。
 - [在日常生活中防灾](https://sspai.com/t/ycd2gqehvqu5)：了解基本的防灾常识。
@@ -70,11 +73,11 @@
 
 [product hunt launch checklist](https://learningloop.notion.site/Product-Hunt-Launch-Checklist-300bb21183d7486faa019dca1c86fbc1) 
 
-## 剧集推荐
+## 🎬 Movie series 
 - **[特工任务](https://movie.douban.com/subject/35561680/)**：主要其实讲的是国安局和以特工游戏为方式的间谍组织的较量。让我觉得印象深刻的部分是，后来主角2号认真做起来炮灰。可能每个人都相当拯救世界的英雄，觉得自己天赋高应该用在更厉害的事情上。但是可能在很多场合， 我们却不是那个最合适做那些事情的人。与此相反，我们被排除在外或者只能做炮灰。在这种情况下，做好自己的炮灰和主角的NPC，其实就很好。
 - **[How to Get Away with Murder](https://www.netflix.com/title/80024057)**：一个刑事律师带领她的团队为各种case辩护，以及她自己遇到的问题。其中她讲到，证明一个人不是suspect，有几个方面，质疑她的证据，提供你的suspect，提供你的证据。逻辑很简单但是很有说服力。
 
-## Puzzles
+## 🧩 Puzzles
 - **如何预防摔跤？**
   1. 淘宝上的防摔背心：背心带有氦气罐，摔跤时弹出气囊。不过重量偏大(大约3kg)，测评指出爆破声音较大和sensitivity。
   2. 动物尾巴的平衡作用：如果引入可穿戴尾巴，是否可以降低摔倒几率？日本有类似的机器尾巴设计，重量为体重的5%。

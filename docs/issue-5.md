@@ -1,15 +1,17 @@
-# You can’t know everything, and that’s perfectly fine. 
-2024/09/23 
+---
+intro: : You can’t know everything, and that’s perfectly fine. 
+issue: 5
+date: 2024-09-23
+---
 
-
-## 1% changes
+## 🌈 1% changes
 秋天到了，喉咙很干，买了一个茶壶。
 1. 容量大概是800ml-1500ml
 2. 带很大的茶漏（因为泡花茶可以过滤）
 3. 底部可以加热
 
 
-## Tools
+## 🔧 Tools
 #### 1. **[AI 论文标题生成器](https://researchtitle.textgen.net/)**
    - **简介**：一个生成AI相关论文标题的工具，帮助研究人员快速获取灵感。
 
@@ -22,7 +24,7 @@
 #### 4. **[Hiding Pinned Browser Extensions](https://github.com/cunzaizhuyi/up-mode-extension?tab=readme-ov-file)**
    - **简介**：一个浏览器插件，可以隐藏固定的扩展程序，提升浏览体验。
 
-## Books/Blogs Takeaways 
+## 📚 Books/Blogs Takeaways 
 [褚时健] -- 讲的是关于一代著名企业家褚时健的故事。我觉得他第一性原理做的很好，同时也是很有魄力，技术和管理都做的很好的人。书中主要介绍的是整个一生的主要故事，但是如果他自己写一本关于沟通和管理方面的书，应该是很有帮助。他在玉溪烟草厂做的特别好的时候，被迫离开，然后坎坷了好几年，然后居然又开始了褚橙，而且做的更好。当时想到了和易经里面好像一样。飞龙在天后面就是亢龙有悔。在高峰时候如果急流勇退，可能能避免灾难。但是他其实也申请退休，只是大家都没有太当真。而且有时候在高峰的时候，但是只能看到更高峰，所以不一定觉得当下就是高峰。我在想，如果他提前知道是这样的结局，他还是选择好好做那个企业吗？我觉得应该还是会的吧。因为他从升级设备，到升级原料（到第一车间），到后面的，应该也会对后面的褚橙有所帮助。
 
 [CMU Advanced NLP-11711](https://phontron.com/class/anlp-fall2024/),[Youtube](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp)
@@ -61,7 +63,7 @@ Zoran Jambor
 
 
 
-## 剧集
+## 🎬 Movie series 
 [大明宫] 唐朝从太宗李世民到高宗李治再到武则天的故事。
 
 [守护解放西] 听别人推荐过很多次，但是不明白为什么在警察局的画面好看，感觉大概率就是吵架哦或者打架。结果看了几集之后路转粉。不知道是湖南这个城市，感觉他们做的综艺，从湖南卫视，到芒果tv，到现在甚至守护解放西，综艺水平真的一骑绝尘。什么样的综艺比较好看？ 1. 有剧情有冲突 2. 有反差或者笑点 3. 
